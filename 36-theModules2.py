@@ -16,4 +16,5 @@ from theModules import find_max
 
 numbers = [3, 6, 10, 16, 10]
 # max = find_max(numbers)
+# max is a built in function in python
 print(max(numbers))
